@@ -33,6 +33,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
 <br>
+
 <div align="center">📫 Feel free to reach out if you'd like to connect!</div>
+<br> <br>
+
+<div align="center" dir="auto">
+        <img align="center" src="https://profile-counter.glitch.me/{CaioBolognesi}/count.svg" style="max-width: 100%;" />
+</div><br>
