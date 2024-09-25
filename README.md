@@ -38,6 +38,3 @@
 <div align="center">📫 Feel free to reach out if you'd like to connect!</div>
 <br> <br>
 
-<div align="center" dir="auto">
-        <img align="center" src="https://profile-counter.glitch.me/{CaioBolognesi}/count.svg" style="max-width: 100%;" />
-</div><br>
