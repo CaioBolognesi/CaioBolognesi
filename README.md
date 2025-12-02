@@ -1,40 +1,40 @@
-<h2 align="center">Hi there, I'm Caio Marcelo. 👋🏻</h2>
+<h1 align="center">Hi there, I'm Caio Marcelo 👋🏻</h1>
+<div align="center">
+<p align="center" style="margin: auto; font-size: 15px; line-height: 1.6; font-weight: 400;">
+  I'm an automation manager at <strong>Marvee</strong>, working directly with AI-driven workflows, 
+  data analysis, and analytics structuring. At the moment, I'm also developing 
+  <a href="https://funnelpulse.com.br" target="_blank"><strong>FunnelPulse</strong></a>, 
+  a platform designed to bring companies clear visibility, structured analytics, 
+  and AI-powered sales operations.<br><br>
 
+  I work daily with <strong>LLMs, automation systems, data pipelines</strong>, and 
+  <strong>analytics architecture</strong>, transforming scattered information into 
+  organized and actionable insights. My focus is building reliable automations, 
+  clean data structures, and intelligent processes that help teams operate with 
+  consistency, clarity, and better decision-making.
+</p>
+</div>
+<br>
+
+<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB&style=flat" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/N8N-white?logo=n8n&logoColor=EA4C89&style=flat" />
+  <img src="https://img.shields.io/badge/Anthropic-dbb193?logo=anthropic&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/OpenAI-000?logo=openai&logoColor=white&style=flat" />
+</p>
+</div>
+
+<h3 align="center">Feel free to reach me out 🤟🏻</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/caio-marcelo-bolognesi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-<br>
-
-<div align="center">💻 I'm currently working as a Web Developer at a financial BPO company.</div>
-<div align="center">📚 I'm passionate about expanding my skills and am currently studying React, Next.js, and databases. </div>
-<br><br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="next logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-<br>
-
-<div align="center">📫 Feel free to reach out if you'd like to connect!</div>
-<br> <br>
-
