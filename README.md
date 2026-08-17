@@ -1,21 +1,20 @@
 <h1 align="center">Hi there, I'm Caio Marcelo 👋🏻</h1>
 <div align="center">
 <p align="center" style="margin: auto; font-size: 15px; line-height: 1.6; font-weight: 400;">
-  I'm an automation manager at <strong>Marvee</strong>, working directly with AI-driven workflows, 
-  data analysis, and analytics structuring. At the moment, I'm also developing 
-  <a href="https://funnelpulse.com.br" target="_blank"><strong>FunnelPulse</strong></a>, 
-  a platform designed to bring companies clear visibility, structured analytics, 
-  and AI-powered sales operations.<br><br>
-
-  I work daily with <strong>LLMs, automation systems, data pipelines</strong>, and 
-  <strong>analytics architecture</strong>, transforming scattered information into 
-  organized and actionable insights. My focus is building reliable automations, 
-  clean data structures, and intelligent processes that help teams operate with 
-  consistency, clarity, and better decision-making.
+  I'm a full-stack developer at <strong>Marvee</strong>, building
+  <a href="https://ai.marvee.com.br/hub" target="_blank"><strong>Marvee Hub</strong></a>,
+  Brazil's first AI-first business management platform. Every app shares one
+  database, one permission model and one context layer, with an <strong>LLM-powered
+  agent</strong> that reads that context and acts across all of them. I've worked from
+  the back-end and data modeling through to the interface, including the native
+  <strong>MCP and API</strong> layer that lets any external AI assistant operate the
+  same data, scoped to the caller's own permissions.<br><br>
+  Before this I led Marvee's automation and AI team, and I came from finance before
+  that. Knowing the operation end to end is what I bring to the product: I know which
+  problem it needs to solve, not just how to make it work.
 </p>
 </div>
 <br>
-
 <div align="center">
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=flat" />
@@ -31,8 +30,7 @@
   <img src="https://img.shields.io/badge/OpenAI-000?logo=openai&logoColor=white&style=flat" />
 </p>
 </div>
-
-<h3 align="center">Feel free to reach me out</h3>
+<h3 align="center">Feel free to reach out</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/caio-marcelo-bolognesi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
